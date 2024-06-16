@@ -1,0 +1,17 @@
+{
+  "name": "student-course-finder-api",
+  "description": "An api of all courses offered in Nigeria tetiary institutions with their requirements",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Prius",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.3"
+  }
+}
+

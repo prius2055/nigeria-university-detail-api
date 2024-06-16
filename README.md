@@ -1,1 +1,1 @@
-## Nigeria universities' details
+## Student course finder api
