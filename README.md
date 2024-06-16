@@ -1,1 +1,1 @@
-## Student course finder api
+## Student course finder api.
