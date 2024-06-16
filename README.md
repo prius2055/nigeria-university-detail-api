@@ -1,0 +1,1 @@
+## Nigeria universities' details
